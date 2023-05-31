@@ -31,8 +31,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: LUBINDHER S
+### Register Number: 212222240056
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
